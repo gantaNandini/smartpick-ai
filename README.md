@@ -105,4 +105,4 @@ You will need a **free Groq API key** from [console.groq.com](https://console.gr
 
 ## GitHub Repository
 
-[Add your GitHub link here]
+https://github.com/gantaNandini/smartpick-ai
