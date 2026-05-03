@@ -65,7 +65,7 @@ You will need a **free Groq API key** from [console.groq.com](https://console.gr
 
 ## Deployment
 
-**Live App:** [Add your Railway/Render link here after deploying]
+**Live App:** https://smartpick-ai.streamlit.app/
 
 **Deploy on Railway:**
 1. Push this repo to GitHub
